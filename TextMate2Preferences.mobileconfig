@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.macromates.TextMate.preview</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>DisableCrashReports</key>
+								<true/>
+								<key>SoftwareUpdateDisablePolling</key>
+								<true/>
+								<key>disableBundleUpdates</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>MCXToProfile.a3247521-c54e-446e-8bd3-0a41c98d058d.alacarte.customsettings.41428e2b-14b6-43d0-a483-d9ba8f0616b9</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>41428e2b-14b6-43d0-a483-d9ba8f0616b9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Included custom settings:
+com.macromates.TextMate.preview
+
+Git revision: eacd7a583e</string>
+	<key>PayloadDisplayName</key>
+	<string>MCXToProfile: com.macromates.TextMate.preview</string>
+	<key>PayloadIdentifier</key>
+	<string>TextMate2Preferences</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>a3247521-c54e-446e-8bd3-0a41c98d058d</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
