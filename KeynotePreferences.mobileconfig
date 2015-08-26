@@ -17,7 +17,7 @@
 								<key>TMAFirstLaunchCoachingTipShownKey</key>
 								<integer>1</integer>
 								<key>TMAFirstLaunchVersion</key>
-								<integer>65538</integer>
+								<integer>65541</integer>
 							</dict>
 						</dict>
 					</array>
@@ -26,11 +26,11 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.846636e2-51c9-4a74-acce-b989794dea2c.alacarte.customsettings.af8c1a01-a21b-4570-86ca-0c84b1d8e517</string>
+			<string>MCXToProfile.bb14cbd7-db29-494a-8e94-08f07d4a1963.alacarte.customsettings.8bc16034-b134-46ef-ba0e-75c2665cb740</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>af8c1a01-a21b-4570-86ca-0c84b1d8e517</string>
+			<string>8bc16034-b134-46ef-ba0e-75c2665cb740</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -53,7 +53,7 @@ Git revision: eacd7a583e</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>846636e2-51c9-4a74-acce-b989794dea2c</string>
+	<string>bb14cbd7-db29-494a-8e94-08f07d4a1963</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

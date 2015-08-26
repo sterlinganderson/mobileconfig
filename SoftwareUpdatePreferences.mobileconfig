@@ -7,39 +7,23 @@
 		<dict>
 			<key>PayloadContent</key>
 			<dict>
-				<key>com.google.Chrome</key>
+				<key>com.apple.SoftwareUpdate</key>
 				<dict>
 					<key>Forced</key>
 					<array>
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
-								<key>AutoFillEnabled</key>
+								<key>AutomaticCheckEnabled</key>
 								<false/>
-								<key>BookmarkBarEnabled</key>
+								<key>AutomaticDownload</key>
 								<false/>
-								<key>DefaultBrowserSettingEnabled</key>
+								<key>ConfigDataInstall</key>
 								<false/>
-								<key>DownloadDirectory</key>
-								<string>~/Desktop</string>
-								<key>HideWebStorePromo</key>
-								<true/>
-								<key>HomepageIsNewTabPage</key>
+								<key>CriticalUpdateInstall</key>
 								<false/>
-								<key>HomepageLocation</key>
-								<string>http://journalism.wisc.edu</string>
-								<key>PasswordManagerEnabled</key>
+								<key>ScheduleFrequency</key>
 								<false/>
-								<key>RestoreOnStartup</key>
-								<integer>0</integer>
-								<key>RestoreOnStartupURLs</key>
-								<array>
-									<string>http://journalism.wisc.edu</string>
-								</array>
-								<key>ShowHomeButton</key>
-								<true/>
-								<key>SyncDisabled</key>
-								<true/>
 							</dict>
 						</dict>
 					</array>
@@ -48,24 +32,24 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.d6ea9fd1-46f1-47e6-a2cf-2baff48fbcc7.alacarte.customsettings.9e2d0db5-ec4e-488a-bd2f-d26d821e08db</string>
+			<string>MCXToProfile.3762bfc5-1e59-4314-bf33-f6319ca09f3a.alacarte.customsettings.79b4649b-edc1-4613-b5dc-4339488d4272</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>9e2d0db5-ec4e-488a-bd2f-d26d821e08db</string>
+			<string>79b4649b-edc1-4613-b5dc-4339488d4272</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>Included custom settings:
-com.google.Chrome
+com.apple.SoftwareUpdate
 
 Git revision: eacd7a583e</string>
 	<key>PayloadDisplayName</key>
-	<string>MCXToProfile: com.google.Chrome</string>
+	<string>MCXToProfile: com.apple.SoftwareUpdate</string>
 	<key>PayloadIdentifier</key>
-	<string>ChromePreferences</string>
+	<string>SoftwareUpdatePreferences</string>
 	<key>PayloadOrganization</key>
 	<string></string>
 	<key>PayloadRemovalDisallowed</key>
@@ -75,7 +59,7 @@ Git revision: eacd7a583e</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>d6ea9fd1-46f1-47e6-a2cf-2baff48fbcc7</string>
+	<string>3762bfc5-1e59-4314-bf33-f6319ca09f3a</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

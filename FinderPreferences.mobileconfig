@@ -7,38 +7,28 @@
 		<dict>
 			<key>PayloadContent</key>
 			<dict>
-				<key>com.google.Chrome</key>
+				<key>com.apple.finder</key>
 				<dict>
 					<key>Forced</key>
 					<array>
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
-								<key>AutoFillEnabled</key>
+								<key>FXArrangeGroupViewBy</key>
+								<string>Name</string>
+								<key>FinderSpawnTab</key>
 								<false/>
-								<key>BookmarkBarEnabled</key>
-								<false/>
-								<key>DefaultBrowserSettingEnabled</key>
-								<false/>
-								<key>DownloadDirectory</key>
-								<string>~/Desktop</string>
-								<key>HideWebStorePromo</key>
+								<key>NewWindowTarget</key>
+								<string>PfHm</string>
+								<key>NewWindowTargetPath</key>
+								<string>file:///Users/sjmcuser/</string>
+								<key>ShowExternalHardDrivesOnDesktop</key>
 								<true/>
-								<key>HomepageIsNewTabPage</key>
+								<key>ShowHardDrivesOnDesktop</key>
 								<false/>
-								<key>HomepageLocation</key>
-								<string>http://journalism.wisc.edu</string>
-								<key>PasswordManagerEnabled</key>
+								<key>ShowRecentTags</key>
 								<false/>
-								<key>RestoreOnStartup</key>
-								<integer>0</integer>
-								<key>RestoreOnStartupURLs</key>
-								<array>
-									<string>http://journalism.wisc.edu</string>
-								</array>
-								<key>ShowHomeButton</key>
-								<true/>
-								<key>SyncDisabled</key>
+								<key>ShowRemovableMediaOnDesktop</key>
 								<true/>
 							</dict>
 						</dict>
@@ -48,24 +38,24 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.d6ea9fd1-46f1-47e6-a2cf-2baff48fbcc7.alacarte.customsettings.9e2d0db5-ec4e-488a-bd2f-d26d821e08db</string>
+			<string>MCXToProfile.fcf9b548-3f4d-4bd3-867a-1829b066b66f.alacarte.customsettings.c391cfc3-aac4-4c54-9414-67bd24dc958d</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>9e2d0db5-ec4e-488a-bd2f-d26d821e08db</string>
+			<string>c391cfc3-aac4-4c54-9414-67bd24dc958d</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>Included custom settings:
-com.google.Chrome
+com.apple.finder
 
 Git revision: eacd7a583e</string>
 	<key>PayloadDisplayName</key>
-	<string>MCXToProfile: com.google.Chrome</string>
+	<string>MCXToProfile: com.apple.finder</string>
 	<key>PayloadIdentifier</key>
-	<string>ChromePreferences</string>
+	<string>FinderPreferences</string>
 	<key>PayloadOrganization</key>
 	<string></string>
 	<key>PayloadRemovalDisallowed</key>
@@ -75,7 +65,7 @@ Git revision: eacd7a583e</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>d6ea9fd1-46f1-47e6-a2cf-2baff48fbcc7</string>
+	<string>fcf9b548-3f4d-4bd3-867a-1829b066b66f</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

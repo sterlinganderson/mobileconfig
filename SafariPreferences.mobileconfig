@@ -7,38 +7,42 @@
 		<dict>
 			<key>PayloadContent</key>
 			<dict>
-				<key>com.google.Chrome</key>
+				<key>com.apple.Safari</key>
 				<dict>
 					<key>Forced</key>
 					<array>
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
-								<key>AutoFillEnabled</key>
+								<key>AutoFillCreditCardData</key>
 								<false/>
-								<key>BookmarkBarEnabled</key>
+								<key>AutoFillFromAddressBook</key>
 								<false/>
-								<key>DefaultBrowserSettingEnabled</key>
+								<key>AutoFillMiscellaneousForms</key>
 								<false/>
-								<key>DownloadDirectory</key>
+								<key>AutoFillPasswords</key>
+								<false/>
+								<key>AutoOpenSafeDownloads</key>
+								<false/>
+								<key>DownloadsClearingPolicy</key>
+								<integer>1</integer>
+								<key>DownloadsPath</key>
 								<string>~/Desktop</string>
-								<key>HideWebStorePromo</key>
-								<true/>
-								<key>HomepageIsNewTabPage</key>
-								<false/>
-								<key>HomepageLocation</key>
+								<key>HomePage</key>
 								<string>http://journalism.wisc.edu</string>
-								<key>PasswordManagerEnabled</key>
-								<false/>
-								<key>RestoreOnStartup</key>
-								<integer>0</integer>
-								<key>RestoreOnStartupURLs</key>
-								<array>
-									<string>http://journalism.wisc.edu</string>
-								</array>
-								<key>ShowHomeButton</key>
+								<key>IncludeDevelopMenu</key>
 								<true/>
-								<key>SyncDisabled</key>
+								<key>LastSafariVersionWithWelcomePage</key>
+								<string>8.0</string>
+								<key>NewTabBehavior</key>
+								<integer>1</integer>
+								<key>NewWindowBehavior</key>
+								<integer>0</integer>
+								<key>SendDoNotTrackHTTPHeader</key>
+								<true/>
+								<key>ShowFavoritesBar</key>
+								<false/>
+								<key>com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled</key>
 								<true/>
 							</dict>
 						</dict>
@@ -48,24 +52,24 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.d6ea9fd1-46f1-47e6-a2cf-2baff48fbcc7.alacarte.customsettings.9e2d0db5-ec4e-488a-bd2f-d26d821e08db</string>
+			<string>MCXToProfile.24e722d4-bcb9-4511-a5a0-cc9f2c1c65a4.alacarte.customsettings.c9fde7ef-cf71-4f09-b4b5-f1f53a5d66e6</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>9e2d0db5-ec4e-488a-bd2f-d26d821e08db</string>
+			<string>c9fde7ef-cf71-4f09-b4b5-f1f53a5d66e6</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>Included custom settings:
-com.google.Chrome
+com.apple.Safari
 
 Git revision: eacd7a583e</string>
 	<key>PayloadDisplayName</key>
-	<string>MCXToProfile: com.google.Chrome</string>
+	<string>MCXToProfile: com.apple.Safari</string>
 	<key>PayloadIdentifier</key>
-	<string>ChromePreferences</string>
+	<string>SafariPreferences</string>
 	<key>PayloadOrganization</key>
 	<string></string>
 	<key>PayloadRemovalDisallowed</key>
@@ -75,7 +79,7 @@ Git revision: eacd7a583e</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>d6ea9fd1-46f1-47e6-a2cf-2baff48fbcc7</string>
+	<string>24e722d4-bcb9-4511-a5a0-cc9f2c1c65a4</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
