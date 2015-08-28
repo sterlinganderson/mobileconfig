@@ -7,17 +7,23 @@
 		<dict>
 			<key>PayloadContent</key>
 			<dict>
-				<key>com.apple.iWork.Numbers</key>
+				<key>com.apple.systemuiserver</key>
 				<dict>
 					<key>Forced</key>
 					<array>
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
-								<key>TMAFirstLaunchCoachingTipShownKey</key>
-								<integer>1</integer>
-								<key>TMAFirstLaunchVersion</key>
-								<integer>65541</integer>
+								<key>dontAutoLoad</key>
+								<array>
+									<string>/System/Library/CoreServices/Menu Extras/AirPort.menu</string>
+								</array>
+								<key>menuExtras</key>
+								<array>
+									<string>/System/Library/CoreServices/Menu Extras/Displays.menu</string>
+									<string>/System/Library/CoreServices/Menu Extras/Volume.menu</string>
+									<string>/System/Library/CoreServices/Menu Extras/Clock.menu</string>
+								</array>
 							</dict>
 						</dict>
 					</array>
@@ -26,24 +32,24 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.885f0eb8-6939-49fe-b16f-8584a0682533.alacarte.customsettings.63a354dd-b81c-4a33-a492-cf2b20bffbe6</string>
+			<string>MCXToProfile.e6c0bf04-92a7-4baf-9b00-0676e0fef94e.alacarte.customsettings.ce71de13-8e17-47a7-a1f6-bae06b34cf64</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>63a354dd-b81c-4a33-a492-cf2b20bffbe6</string>
+			<string>ce71de13-8e17-47a7-a1f6-bae06b34cf64</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>Included custom settings:
-com.apple.iWork.Numbers
+com.apple.systemuiserver
 
 Git revision: eacd7a583e</string>
 	<key>PayloadDisplayName</key>
-	<string>MCXToProfile: com.apple.iWork.Numbers</string>
+	<string>MCXToProfile: com.apple.systemuiserver</string>
 	<key>PayloadIdentifier</key>
-	<string>NumbersPreferences</string>
+	<string>MenubarPreferences</string>
 	<key>PayloadOrganization</key>
 	<string></string>
 	<key>PayloadRemovalDisallowed</key>
@@ -53,7 +59,7 @@ Git revision: eacd7a583e</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>885f0eb8-6939-49fe-b16f-8584a0682533</string>
+	<string>e6c0bf04-92a7-4baf-9b00-0676e0fef94e</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

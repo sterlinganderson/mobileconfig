@@ -7,17 +7,21 @@
 		<dict>
 			<key>PayloadContent</key>
 			<dict>
-				<key>com.apple.iWork.Numbers</key>
+				<key>com.apple.screensaver</key>
 				<dict>
 					<key>Forced</key>
 					<array>
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
-								<key>TMAFirstLaunchCoachingTipShownKey</key>
-								<integer>1</integer>
-								<key>TMAFirstLaunchVersion</key>
-								<integer>65541</integer>
+								<key>PayloadUUID</key>
+								<string>92191fda-231a-1a2a-df05-ac8c879d170a</string>
+								<key>askForPassword</key>
+								<integer>0</integer>
+								<key>idleTime</key>
+								<integer>1200</integer>
+								<key>loginWindowIdleTime</key>
+								<integer>1200</integer>
 							</dict>
 						</dict>
 					</array>
@@ -26,24 +30,24 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.885f0eb8-6939-49fe-b16f-8584a0682533.alacarte.customsettings.63a354dd-b81c-4a33-a492-cf2b20bffbe6</string>
+			<string>MCXToProfile.4b69ab7b-aaab-45e0-8817-000aaebc3821.alacarte.customsettings.9992d888-1afc-42b2-b526-294cd31a3635</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>63a354dd-b81c-4a33-a492-cf2b20bffbe6</string>
+			<string>9992d888-1afc-42b2-b526-294cd31a3635</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>Included custom settings:
-com.apple.iWork.Numbers
+com.apple.screensaver
 
 Git revision: eacd7a583e</string>
 	<key>PayloadDisplayName</key>
-	<string>MCXToProfile: com.apple.iWork.Numbers</string>
+	<string>MCXToProfile: com.apple.screensaver</string>
 	<key>PayloadIdentifier</key>
-	<string>NumbersPreferences</string>
+	<string>ScreensaverPreferences</string>
 	<key>PayloadOrganization</key>
 	<string></string>
 	<key>PayloadRemovalDisallowed</key>
@@ -53,7 +57,7 @@ Git revision: eacd7a583e</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>885f0eb8-6939-49fe-b16f-8584a0682533</string>
+	<string>4b69ab7b-aaab-45e0-8817-000aaebc3821</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

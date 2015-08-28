@@ -16,6 +16,8 @@
 							<dict>
 								<key>FXArrangeGroupViewBy</key>
 								<string>Name</string>
+								<key>FXPreferredViewStyle</key>
+								<string>Nlsv</string>
 								<key>FinderSpawnTab</key>
 								<false/>
 								<key>NewWindowTarget</key>
@@ -38,11 +40,11 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.fcf9b548-3f4d-4bd3-867a-1829b066b66f.alacarte.customsettings.c391cfc3-aac4-4c54-9414-67bd24dc958d</string>
+			<string>MCXToProfile.afc1ff9a-13ef-400b-978c-e37cf2fece81.alacarte.customsettings.53ee32d1-f4fe-4546-9599-634e64d19b41</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>c391cfc3-aac4-4c54-9414-67bd24dc958d</string>
+			<string>53ee32d1-f4fe-4546-9599-634e64d19b41</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -65,7 +67,7 @@ Git revision: eacd7a583e</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>fcf9b548-3f4d-4bd3-867a-1829b066b66f</string>
+	<string>afc1ff9a-13ef-400b-978c-e37cf2fece81</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

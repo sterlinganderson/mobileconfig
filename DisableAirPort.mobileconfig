@@ -7,17 +7,15 @@
 		<dict>
 			<key>PayloadContent</key>
 			<dict>
-				<key>com.apple.iWork.Numbers</key>
+				<key>com.apple.MCXAirPort</key>
 				<dict>
 					<key>Forced</key>
 					<array>
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
-								<key>TMAFirstLaunchCoachingTipShownKey</key>
-								<integer>1</integer>
-								<key>TMAFirstLaunchVersion</key>
-								<integer>65541</integer>
+								<key>DisableAirPort</key>
+								<true/>
 							</dict>
 						</dict>
 					</array>
@@ -26,24 +24,24 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.885f0eb8-6939-49fe-b16f-8584a0682533.alacarte.customsettings.63a354dd-b81c-4a33-a492-cf2b20bffbe6</string>
+			<string>MCXToProfile.13020692-d03a-45ba-9c50-0140f3655c56.alacarte.customsettings.a00984f4-a7e7-4559-8353-439f3108b6fc</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>63a354dd-b81c-4a33-a492-cf2b20bffbe6</string>
+			<string>a00984f4-a7e7-4559-8353-439f3108b6fc</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
 	<string>Included custom settings:
-com.apple.iWork.Numbers
+com.apple.MCXAirPort
 
 Git revision: eacd7a583e</string>
 	<key>PayloadDisplayName</key>
-	<string>MCXToProfile: com.apple.iWork.Numbers</string>
+	<string>MCXToProfile: com.apple.MCXAirPort</string>
 	<key>PayloadIdentifier</key>
-	<string>NumbersPreferences</string>
+	<string>DisableAirPort</string>
 	<key>PayloadOrganization</key>
 	<string></string>
 	<key>PayloadRemovalDisallowed</key>
@@ -53,7 +51,7 @@ Git revision: eacd7a583e</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>885f0eb8-6939-49fe-b16f-8584a0682533</string>
+	<string>13020692-d03a-45ba-9c50-0140f3655c56</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
