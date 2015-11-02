@@ -24,11 +24,11 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.775a07b2-87b4-4280-9bd2-1565cbb4f47c.alacarte.customsettings.fab97032-2529-488a-8837-2e6ec2c90af7</string>
+			<string>MCXToProfile.ffe5ea6b-1f1b-46fb-99ef-7ca715a48636.alacarte.customsettings.20095973-aff6-4c70-a8d6-f5ad3c7a331b</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>fab97032-2529-488a-8837-2e6ec2c90af7</string>
+			<string>20095973-aff6-4c70-a8d6-f5ad3c7a331b</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -44,6 +44,8 @@
 							<dict>
 								<key>FirstRunExperienceCompletedO15</key>
 								<true/>
+								<key>OUIWhatsNewLastShownLink</key>
+								<string>624956</string>
 								<key>kSubUIAppCompletedFirstRunSetup1507</key>
 								<true/>
 							</dict>
@@ -54,11 +56,11 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.775a07b2-87b4-4280-9bd2-1565cbb4f47c.alacarte.customsettings.be6ad31f-dce7-46ea-9247-5fe1d78e7c4a</string>
+			<string>MCXToProfile.ffe5ea6b-1f1b-46fb-99ef-7ca715a48636.alacarte.customsettings.85552e90-0e9c-4890-afbf-b2622b6fbb60</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>be6ad31f-dce7-46ea-9247-5fe1d78e7c4a</string>
+			<string>85552e90-0e9c-4890-afbf-b2622b6fbb60</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -72,6 +74,8 @@
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
+								<key>OUIWhatsNewLastShownLink</key>
+								<string>624955</string>
 								<key>kSubUIAppCompletedFirstRunSetup1507</key>
 								<true/>
 							</dict>
@@ -82,11 +86,11 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.775a07b2-87b4-4280-9bd2-1565cbb4f47c.alacarte.customsettings.b9abb044-32d5-4d6e-a2a6-21ebf8c9dbb9</string>
+			<string>MCXToProfile.ffe5ea6b-1f1b-46fb-99ef-7ca715a48636.alacarte.customsettings.81a3ba6a-36a0-4572-9699-a343baa5ae77</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>b9abb044-32d5-4d6e-a2a6-21ebf8c9dbb9</string>
+			<string>81a3ba6a-36a0-4572-9699-a343baa5ae77</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -100,6 +104,8 @@
 						<dict>
 							<key>mcx_preference_settings</key>
 							<dict>
+								<key>OUIWhatsNewLastShownLink</key>
+								<string>624953</string>
 								<key>kSubUIAppCompletedFirstRunSetup1507</key>
 								<true/>
 							</dict>
@@ -110,11 +116,11 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.775a07b2-87b4-4280-9bd2-1565cbb4f47c.alacarte.customsettings.b25df1a2-af4c-4ead-a9aa-07f07ac5bbec</string>
+			<string>MCXToProfile.ffe5ea6b-1f1b-46fb-99ef-7ca715a48636.alacarte.customsettings.adeabf12-2bc1-4980-8208-da9964883b81</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>b25df1a2-af4c-4ead-a9aa-07f07ac5bbec</string>
+			<string>adeabf12-2bc1-4980-8208-da9964883b81</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -138,11 +144,11 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>MCXToProfile.775a07b2-87b4-4280-9bd2-1565cbb4f47c.alacarte.customsettings.181afea1-4ba5-4af0-9d5a-56fda4a83857</string>
+			<string>MCXToProfile.ffe5ea6b-1f1b-46fb-99ef-7ca715a48636.alacarte.customsettings.f58e0c80-9b92-4176-8eca-36da3fad3f74</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>181afea1-4ba5-4af0-9d5a-56fda4a83857</string>
+			<string>f58e0c80-9b92-4176-8eca-36da3fad3f74</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -169,7 +175,7 @@ Git revision: eacd7a583e</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>775a07b2-87b4-4280-9bd2-1565cbb4f47c</string>
+	<string>ffe5ea6b-1f1b-46fb-99ef-7ca715a48636</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
